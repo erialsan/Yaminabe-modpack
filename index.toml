@@ -6,6 +6,11 @@ hash = "7b112d9281dc3bf615e7f2eac0fac8f42688b3239c2ddd5e448c9588638b0a09"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "5d8b481ab94521b23e987c054acc9cedf42a736f5dcefc5f877746fab70db75a"
 metafile = true
@@ -56,6 +61,11 @@ hash = "bb4a521b67a2f8a3d55d30d4065d0bb8a35705524cefa082f81149361de8f87f"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "07d05c28338ee22f32c2780e5b0d8655c4adcf6917a68a441a767fcbdb734044"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/noisiumed.pw.toml"
 hash = "0f29aae51e0838cc4c20b73bcb4f097834d1e76ab429175935f4c2108e347859"
+metafile = true
+
+[[files]]
+file = "mods/overloaded-armor-bar.pw.toml"
+hash = "65ba55b95c910d696029b5e1c735241062ea80d5bad76e22e9e79697279cde30"
 metafile = true
 
 [[files]]
