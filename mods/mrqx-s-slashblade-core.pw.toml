@@ -1,0 +1,13 @@
+name = "mrqx`s Slashblade Core"
+filename = "mrqxs_Slashblade_Core-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d37dade14aa1d6abe0beb1f916376529a3e8398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8018780
+project-id = 1235855

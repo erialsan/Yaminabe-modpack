@@ -1,0 +1,13 @@
+name = "True POWER"
+filename = "True_POWER-1.20.1-1.2.1-hotfix1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39b546bea7696550552ab96a903794fb1b3677ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8456203
+project-id = 1287990
