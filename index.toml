@@ -66,6 +66,11 @@ hash = "5996e886bd284d7a20287355ab42a7f5df7f6cce90fe74b04223cd55a4fd6c5d"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "18155f139f536592c795f18eae975a82b0200f800693e873316b9157efb6df7b"
+metafile = true
+
+[[files]]
 file = "mods/noisiumed.pw.toml"
 hash = "0f29aae51e0838cc4c20b73bcb4f097834d1e76ab429175935f4c2108e347859"
 metafile = true
