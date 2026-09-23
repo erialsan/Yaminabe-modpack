@@ -26,6 +26,11 @@ hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "09455e81afb0af9383c906f8b48854c1a037ccd26cf7edcecc9685ebb8233e39"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d654038ae1046e7967a93e1f76e54d43c9d73d66abf79760b2426be9e4422921"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "88396b3f04853c2cab8b7932757a3020aa8b1d266e7ee69a2b208908d3a44ada"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bb4a521b67a2f8a3d55d30d4065d0bb8a35705524cefa082f81149361de8f87f"
 metafile = true
 
 [[files]]
@@ -68,4 +78,14 @@ metafile = true
 [[files]]
 file = "mods/radium-re-reforged.pw.toml"
 hash = "b1a5cee0c0a6bee7b32f67fd229b0db844383d5425e155cc910cd41ed7d08317"
+metafile = true
+
+[[files]]
+file = "mods/reliable-emi.pw.toml"
+hash = "51cb622128d1f0d33c92657531628f00f7bab4165d65c31a2e040b19fd778730"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
