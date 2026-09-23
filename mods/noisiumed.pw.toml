@@ -1,0 +1,13 @@
+name = "Noisiumed"
+filename = "noisiumed-forge-3.0.6+mc1.20-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34130d62dac472eae1357a1f0d64867a19fd3402"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8475241
+project-id = 1430156
